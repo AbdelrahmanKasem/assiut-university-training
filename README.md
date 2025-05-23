@@ -9,13 +9,13 @@ This repository provides a curated collection of problem-solving sheets on [Code
 
 The training is organized into three progressive phases:
 
-- 🔰 [Newcomers Sheet](https://codeforces.com/group/MWSDmqGsZm/contests)  
+- [Newcomers Sheet](https://codeforces.com/group/MWSDmqGsZm/contests)  
   *For beginners with little to no programming experience.*
 
-- 🚀 [Juniors Phase 1](https://codeforces.com/group/c3FDl9EUi9/contests)  
+- [Juniors Phase 1](https://codeforces.com/group/c3FDl9EUi9/contests)  
   *For students with basic knowledge, moving into intermediate problems.*
 
-- 🔧 [Juniors Phase 2](https://codeforces.com/group/gA8A93jony/contests)  
+- [Juniors Phase 2](https://codeforces.com/group/gA8A93jony/contests)  
   *Advanced practice for those preparing for competitions.*
 
 ---

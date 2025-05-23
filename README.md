@@ -21,4 +21,4 @@ The training is organized into three progressive phases:
 ---
 
 Feel free to explore the sheets and start your journey toward becoming a strong problem solver.  
-Good luck, and happy coding! 💻🚀
+Good luck, and happy coding!
